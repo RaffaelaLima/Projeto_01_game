@@ -34,4 +34,4 @@ g. Se todas as letras foram adivinhadas, exibir a mensagem "Você venceu!"
 h. Se o número de tentativas restantes chegar a zero, exibir a mensagem "Você perdeu. A palavra era [palavra escolhida]" e encerrar o jogo.
 
 ## Referência
-DSA: http://www.datascienceacademy.com.br/ 
+Data Science Academy. (2024). Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT). Recuperado de http://www.datascienceacademy.com.br/
